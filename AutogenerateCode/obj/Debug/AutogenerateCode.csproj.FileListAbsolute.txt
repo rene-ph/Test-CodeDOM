@@ -1,0 +1,7 @@
+C:\Users\rhinojosa\source\repos\AutogenerateCode\AutogenerateCode\bin\Debug\AutogenerateCode.exe.config
+C:\Users\rhinojosa\source\repos\AutogenerateCode\AutogenerateCode\bin\Debug\AutogenerateCode.exe
+C:\Users\rhinojosa\source\repos\AutogenerateCode\AutogenerateCode\bin\Debug\AutogenerateCode.pdb
+C:\Users\rhinojosa\source\repos\AutogenerateCode\AutogenerateCode\obj\Debug\AutogenerateCode.csprojAssemblyReference.cache
+C:\Users\rhinojosa\source\repos\AutogenerateCode\AutogenerateCode\obj\Debug\AutogenerateCode.csproj.CoreCompileInputs.cache
+C:\Users\rhinojosa\source\repos\AutogenerateCode\AutogenerateCode\obj\Debug\AutogenerateCode.exe
+C:\Users\rhinojosa\source\repos\AutogenerateCode\AutogenerateCode\obj\Debug\AutogenerateCode.pdb
